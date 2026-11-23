@@ -1,6 +1,6 @@
 # EXPERIMENT NO. 4 – HALF WAVE AND FULL WAVE BRIDGE RECTIFIERS
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | | **Reg. No.:** 26019106
 |---|---|---|---|
 | **Date:** | | **Batch / Section:** | |
 
